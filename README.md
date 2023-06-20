@@ -1,12 +1,24 @@
-# Daktilograf-Project
-Welcome to the Daktilograf repository, a collection of six subprojects designed to facilitate various aspects of speech processing, text generation, and natural language understanding. The repository houses the following subprojects:
 
-Daktilograf-STT:
+![Logo](https://daktilograf.om3ga.org/wp-content/uploads/sites/2/2020/09/Daktilograf-logo-414x318.png)
+
+
+# 🟣 Daktilograf Project 🟣
+
+Welcome to the Daktilograf repository, a collection of six subprojects designed to facilitate various aspects of speech processing, text generation, and natural language understanding for south slavic langugaes. The repository houses the following subprojects:
+## Daktilograf-STT:
 Daktilograf-STT is a powerful speech-to-text engine built to convert spoken language into written text. Leveraging advanced algorithms and machine learning techniques, this component offers accurate transcription capabilities, allowing users to process audio inputs and obtain corresponding textual representations.
 
-Documentation: Daktilograf-STT Documentation
-Code of Conduct: Daktilograf-STT Code of Conduct
-Repository link: Daktilograf-STT repo link
+
+## Links
+
+📰 Documentation: https://daktilograf3.readthedocs.io
+
+🚀 Latest release with pre-trained models: https://github.com/OM3GA-SOLUTIONS-d-o-o/daktilograf-V3-client/releases/latest
+
+🤝 Contribution Guidelines: https://github.com/OM3GA-SOLUTIONS-d-o-o/daktilograf-STT/blob/main/CONTRIBUTING.rst
+
+💽 Repository link: https://github.com/OM3GA-SOLUTIONS-d-o-o/daktilograf-STT
+
 
 Daktilograf-TTS:
 Daktilograf-TTS is an innovative text-to-speech engine that enables the generation of natural-sounding human speech from written text. It leverages sophisticated synthesis models and linguistic analysis to produce high-quality voice output, providing users with an engaging auditory experience.
